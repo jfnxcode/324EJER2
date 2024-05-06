@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="text-center mb-4">Personas Registradas</h1>
+        <h1 class="text-center mb-4">Registro de Personas en el Banco</h1>
         <div class="row">
             <div class="col-md-8 offset-md-2">
                 <?php
